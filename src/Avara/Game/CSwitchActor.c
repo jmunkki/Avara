@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CSwitchActor.c
     Created: Tuesday, January 16, 1996, 0:12
     Modified: Saturday, August 10, 1996, 19:35
-/*/
+*/
 
 #include "CSwitchActor.h"
 #include "CSmartPart.h"

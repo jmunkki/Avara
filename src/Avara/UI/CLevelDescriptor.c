@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CLevelDescriptor.c
     Created: Wednesday, November 30, 1994, 8:15
     Modified: Monday, August 21, 1995, 5:07
-/*/
+*/
 
 #include "CLevelDescriptor.h"
 #include "CharWordLongPointer.h"

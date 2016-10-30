@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: AvaraTCP.c
     Created: Sunday, January 28, 1996, 17:24
     Modified: Tuesday, May 21, 1996, 5:29
-/*/
+*/
 
 #define MAIN_AVARA_TCP
 #include "AvaraTCP.h"

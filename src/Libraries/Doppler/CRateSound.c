@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CRateSound.c
     Created: Monday, December 26, 1994, 9:06
     Modified: Saturday, February 24, 1996, 9:24
-/*/
+*/
 
 #include "CRateSound.h"
 #include "CSoundMixer.h"

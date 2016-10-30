@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CLogicDistributor.c
     Created: Wednesday, November 22, 1995, 7:50
     Modified: Saturday, January 27, 1996, 12:03
-/*/
+*/
 
 #include "CLogicDistributor.h"
 

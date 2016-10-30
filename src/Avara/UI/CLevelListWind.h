@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CLevelListWind.h
     Created: Wednesday, November 30, 1994, 8:50
     Modified: Monday, August 21, 1995, 4:25
-/*/
+*/
 
 #include "CWindowCommander.h"
 #include "LevelScoreRecord.h"

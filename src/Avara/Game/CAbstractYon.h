@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CAbstractYon.h
     Created: Thursday, August 22, 1996, 2:53
     Modified: Thursday, August 22, 1996, 5:00
-/*/
+*/
 
 #pragma once
 #include "CAbstractActor.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CSoundHub.h
     Created: Sunday, December 25, 1994, 10:22
     Modified: Saturday, December 2, 1995, 1:48
-/*/
+*/
 
 #pragma once
 #include "CDirectObject.h"

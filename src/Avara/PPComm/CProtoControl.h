@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: CProtoControl.h
     Created: Thursday, March 2, 1995, 22:32
     Modified: Wednesday, May 17, 1995, 21:34
-/*/
+*/
 
 #pragma once
 #include "CDirectObject.h"

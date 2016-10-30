@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CLogicDelay.c
     Created: Wednesday, November 22, 1995, 8:57
     Modified: Saturday, January 27, 1996, 12:01
-/*/
+*/
 
 #include "CLogicDelay.h"
 

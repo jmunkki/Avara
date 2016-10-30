@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CAbstractMissile.c
     Created: Wednesday, March 8, 1995, 6:14
     Modified: Monday, August 26, 1996, 3:04
-/*/
+*/
 
 #include "CAbstractMissile.h"
 #include "CDepot.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994, Juri Munkki
     All rights reserved.
 
     File: CHandlePipe.c
     Created: Tuesday, September 20, 1994, 17:44
     Modified: Tuesday, September 20, 1994, 17:48
-/*/
+*/
 
 #include "CHandlePipe.h"
 

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: LinkLoose.c
     Created: Tuesday, April 4, 1995, 0:47
     Modified: Tuesday, August 27, 1996, 4:33
-/*/
+*/
 
 #include "LinkLoose.h"
 #include "CWalkerActor.h"

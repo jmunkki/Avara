@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1993-1994, Juri Munkki
     All rights reserved.
 
     File: CBaseObject.c
     Created: Sunday, July 25, 1993, 7:48
     Modified: Friday, October 14, 1994, 14:29
-/*/
+*/
 
 #include "CBaseObject.h"
 

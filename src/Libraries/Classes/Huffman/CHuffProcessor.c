@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: CHuffProcessor.c
     Created: Thursday, August 31, 1995, 2:10
     Modified: Thursday, August 31, 1995, 20:57
-/*/
+*/
 
 #include "CHuffProcessor.h"
 

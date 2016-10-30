@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CCapFunc.c
     Created: Saturday, November 12, 1994, 0:54
     Modified: Friday, December 1, 1995, 22:47
-/*/
+*/
 
 #include "CCapFunc.h"
 #include "CCapMaster.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: BSPPlug.h
     Created: Saturday, May 6, 1995, 16:34
     Modified: Sunday, November 19, 1995, 9:37
-/*/
+*/
 
 #pragma once
 #include "CBSPPart.h"

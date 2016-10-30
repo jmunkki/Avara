@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CIncarnator.c
     Created: Tuesday, May 23, 1995, 17:43
     Modified: Wednesday, April 10, 1996, 14:11
-/*/
+*/
 
 #include "CIncarnator.h"
 

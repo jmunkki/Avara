@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: PAPlugMain.c
     Created: Tuesday, May 2, 1995, 12:14
     Modified: Sunday, November 19, 1995, 11:42
-/*/
+*/
 
 #define	POWERPLUG_CLASS
 #include "MixedMode.h"

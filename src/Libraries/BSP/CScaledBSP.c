@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CScaledBSP.c
     Created: Thursday, March 28, 1996, 18:19
     Modified: Thursday, March 28, 1996, 18:21
-/*/
+*/
 
 #include "CScaledBSP.h"
 

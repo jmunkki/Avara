@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CSphereActor.c
     Created: Wednesday, November 23, 1994, 8:48
     Modified: Monday, May 6, 1996, 16:31
-/*/
+*/
 
 #include "CSphereActor.h"
 #include "CSmartPart.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: CShuriken.c
     Created: Tuesday, December 5, 1995, 5:28
     Modified: Sunday, December 10, 1995, 13:08
-/*/
+*/
 
 #include "CShuriken.h"
 

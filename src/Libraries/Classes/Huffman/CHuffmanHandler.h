@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CHuffmanHandler.h
     Created: Thursday, December 22, 1994, 3:51
     Modified: Monday, February 20, 1995, 16:50
-/*/
+*/
 
 #pragma once
 #include "CAbstractHuffPipe.h"

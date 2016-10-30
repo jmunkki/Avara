@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CBSPWorld.h
     Created: Saturday, July 16, 1994, 23:10
     Modified: Tuesday, February 20, 1996, 7:19
-/*/
+*/
 
 #pragma once
 

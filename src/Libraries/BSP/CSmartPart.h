@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CSmartPart.h
     Created: Wednesday, November 23, 1994, 0:36
     Modified: Sunday, December 10, 1995, 13:02
-/*/
+*/
 
 #pragma once
 #include "CBSPPart.h"

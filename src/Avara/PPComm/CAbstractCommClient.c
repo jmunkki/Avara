@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CAbstractCommClient.c
     Created: Monday, October 30, 1995, 18:55
     Modified: Thursday, February 22, 1996, 9:04
-/*/
+*/
 
 #include "CAbstractCommClient.h"
 

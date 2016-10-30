@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CSoundMixer.c
     Created: Friday, December 23, 1994, 8:25
     Modified: Tuesday, June 25, 1996, 6:06
-/*/
+*/
 
 #include "CSoundMixer.h"
 #include "CBasicSound.h"

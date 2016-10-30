@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CTracker.h
     Created: Thursday, April 18, 1996, 18:49
     Modified: Sunday, September 1, 1996, 9:43
-/*/
+*/
 
 #pragma once
 

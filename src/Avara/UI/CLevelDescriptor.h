@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CLevelDescriptor.h
     Created: Wednesday, November 30, 1994, 8:10
     Modified: Tuesday, June 6, 1995, 9:13
-/*/
+*/
 
 #pragma once
 #include "CDirectObject.h"

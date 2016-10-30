@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CMineActor.h
     Created: Tuesday, September 5, 1995, 8:25
     Modified: Sunday, September 8, 1996, 22:33
-/*/
+*/
 
 #include "CGlowActors.h"
 

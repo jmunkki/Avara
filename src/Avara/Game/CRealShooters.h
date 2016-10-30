@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CRealShooters.h
     Created: Saturday, August 10, 1996, 21:00
     Modified: Tuesday, August 27, 1996, 3:53
-/*/
+*/
 
 #pragma once
 #include "CRealMovers.h"

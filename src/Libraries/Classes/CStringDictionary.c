@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1992-1995, Juri Munkki
     All rights reserved.
 
     File: CStringDictionary.c
     Created: Friday, December 4, 1992, 11:45
     Modified: Tuesday, November 7, 1995, 18:21
-/*/
+*/
 
 /*
 **	See include file for more details on how this class works.

@@ -1,5 +1,5 @@
-/*/
-/*/
+/*
+*/
 
 #include <CBusyWindow.h>
 #include "CommandList.h"

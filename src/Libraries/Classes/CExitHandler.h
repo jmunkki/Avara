@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994, Juri Munkki
     All rights reserved.
 
     File: CExitHandler.h
     Created: Sunday, November 20, 1994, 0:38
     Modified: Sunday, November 20, 1994, 1:00
-/*/
+*/
 
 #pragma once
 #include "CDirectObject.h"

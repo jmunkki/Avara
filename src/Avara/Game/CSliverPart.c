@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CSliverPart.c
     Created: Monday, November 28, 1994, 4:17
     Modified: Wednesday, August 14, 1996, 14:13
-/*/
+*/
 
 #include "CSliverPart.h"
 #include "CAvaraGame.h"

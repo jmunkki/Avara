@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CCommander.h
     Created: Wednesday, November 16, 1994, 0:56
     Modified: Friday, May 12, 1995, 15:30
-/*/
+*/
 
 #pragma once
 #include "CDirectObject.h"

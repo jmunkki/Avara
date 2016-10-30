@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CTeleporter.c
     Created: Monday, July 3, 1995, 1:19
     Modified: Sunday, September 1, 1996, 20:00
-/*/
+*/
 
 #include "CTeleporter.h"
 #include "CSmartPart.h"

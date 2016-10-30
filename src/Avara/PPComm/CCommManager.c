@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CCommManager.c
     Created: Tuesday, February 21, 1995, 0:03
     Modified: Wednesday, August 14, 1996, 19:02
-/*/
+*/
 
 #include "CCommManager.h"
 #include "PPCToolbox.h"

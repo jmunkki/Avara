@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: InfoMessages.h
     Created: Tuesday, November 7, 1995, 19:13
     Modified: Monday, September 2, 1996, 14:52
-/*/
+*/
 
 #define	STATUSSTRINGSLISTID	128
 

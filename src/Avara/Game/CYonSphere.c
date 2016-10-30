@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CYonSphere.c
     Created: Thursday, August 22, 1996, 3:20
     Modified: Thursday, August 22, 1996, 5:20
-/*/
+*/
 
 #include "CYonSphere.h"
 

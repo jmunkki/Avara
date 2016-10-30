@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CSoundHub.c
     Created: Sunday, December 25, 1994, 11:06
     Modified: Tuesday, February 20, 1996, 8:59
-/*/
+*/
 
 #include "CSoundHub.h"
 #include "CRateSound.h"

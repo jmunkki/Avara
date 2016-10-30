@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CAreaActor.c
     Created: Sunday, December 4, 1994, 12:53
     Modified: Thursday, September 12, 1996, 0:41
-/*/
+*/
 
 #include "CAreaActor.h"
 #include "CSmartPart.h"

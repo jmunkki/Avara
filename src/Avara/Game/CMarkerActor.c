@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CMarkerActor.c
     Created: Tuesday, November 22, 1994, 2:17
     Modified: Thursday, November 23, 1995, 15:10
-/*/
+*/
 
 #include "CMarkerActor.h"
 #include "CSmartPart.h"

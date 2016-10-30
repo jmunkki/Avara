@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CAvaraGame.c
     Created: Sunday, November 20, 1994, 19:09
     Modified: Tuesday, September 17, 1996, 3:22
-/*/
+*/
 
 #define	doDumps		0
 #define	dumpsName	"\PAT"

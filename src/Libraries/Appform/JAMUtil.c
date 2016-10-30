@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: JAMUtil.c
     Created: Wednesday, April 24, 1996, 1:47
     Modified: Thursday, July 25, 1996, 3:08
-/*/
+*/
 
 #include "JAMUtil.h"
 

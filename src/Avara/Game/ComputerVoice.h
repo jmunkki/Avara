@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: ComputerVoice.h
     Created: Monday, December 4, 1995, 2:44
     Modified: Sunday, June 30, 1996, 15:48
-/*/
+*/
 
 #pragma once
 

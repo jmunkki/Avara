@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CNetManager.c
     Created: Monday, May 15, 1995, 22:25
     Modified: Tuesday, September 17, 1996, 3:21
-/*/
+*/
 
 #include "CNetManager.h"
 #include "CAvaraGame.h"

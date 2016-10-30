@@ -1,5 +1,5 @@
-/*/
-/*/
+/*
+*/
 
 #include "CMarkerActor.h"
 #include "CPlayerActor.h"

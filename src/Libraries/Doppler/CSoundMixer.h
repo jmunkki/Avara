@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CSoundMixer.h
     Created: Friday, December 23, 1994, 8:24
     Modified: Saturday, February 24, 1996, 9:13
-/*/
+*/
 
 #pragma once
 #include "CDirectObject.h"

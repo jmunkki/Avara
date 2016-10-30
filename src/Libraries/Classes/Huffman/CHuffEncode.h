@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994, Juri Munkki
     All rights reserved.
 
     File: CHuffEncode.h
     Created: Wednesday, September 21, 1994, 0:02
     Modified: Monday, October 3, 1994, 20:36
-/*/
+*/
 
 #pragma once
 #include "CAbstractHuffPipe.h"

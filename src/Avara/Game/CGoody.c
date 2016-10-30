@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CGoody.c
     Created: Friday, February 23, 1996, 13:53
     Modified: Tuesday, August 27, 1996, 4:16
-/*/
+*/
 
 #include "CGoody.h"
 #include "CWallActor.h"

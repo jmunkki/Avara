@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CBasicSound.c
     Created: Friday, December 23, 1994, 10:57
     Modified: Saturday, February 24, 1996, 9:24
-/*/
+*/
 
 #include "CBasicSound.h"
 #include "CSoundMixer.h"

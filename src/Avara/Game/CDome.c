@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CDome.c
     Created: Sunday, May 26, 1996, 15:13
     Modified: Sunday, May 26, 1996, 16:11
-/*/
+*/
 
 #include "CDome.h"
 #include "CSmartPart.h"

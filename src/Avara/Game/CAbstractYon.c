@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CAbstractYon.c
     Created: Thursday, August 22, 1996, 2:51
     Modified: Thursday, August 22, 1996, 9:29
-/*/
+*/
 
 #include "CAbstractYon.h"
 

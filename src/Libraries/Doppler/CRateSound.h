@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CRateSound.h
     Created: Monday, December 26, 1994, 9:03
     Modified: Saturday, February 24, 1996, 9:24
-/*/
+*/
 
 #pragma once
 #include "CBasicSound.h"

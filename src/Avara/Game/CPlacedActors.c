@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CPlacedActors.c
     Created: Tuesday, November 22, 1994, 5:46
     Modified: Sunday, January 21, 1996, 5:11
-/*/
+*/
 
 #include "CPlacedActors.h"
 #include "CSmartPart.h"

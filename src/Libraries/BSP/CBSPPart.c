@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CBSPPart.c
     Created: Thursday, June 30, 1994, 10:28
     Modified: Tuesday, July 23, 1996, 4:31
-/*/
+*/
 
 #include "CBSPPart.h"
 #include "BSPPlug.h"

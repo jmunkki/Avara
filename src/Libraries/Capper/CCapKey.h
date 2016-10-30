@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994, Juri Munkki
     All rights reserved.
 
     File: CCapKey.h
     Created: Friday, November 11, 1994, 21:14
     Modified: Saturday, November 12, 1994, 19:21
-/*/
+*/
 
 #pragma once
 

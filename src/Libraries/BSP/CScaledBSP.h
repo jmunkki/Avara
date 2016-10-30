@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CScaledBSP.h
     Created: Thursday, March 28, 1996, 18:22
     Modified: Thursday, March 28, 1996, 18:23
-/*/
+*/
 
 #pragma once
 #include "CSmartPart.h"

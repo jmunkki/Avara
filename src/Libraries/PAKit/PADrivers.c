@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1992-1995, Juri Munkki
     All rights reserved.
 
     File: PADrivers.c
     Created: Thursday, November 26, 1992, 13:27
     Modified: Friday, March 17, 1995, 12:47
-/*/
+*/
 
 #include "PAKit.h"
 #pragma options(!profile)

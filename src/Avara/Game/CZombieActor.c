@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CZombieActor.c
     Created: Tuesday, October 31, 1995, 14:58
     Modified: Monday, February 26, 1996, 16:01
-/*/
+*/
 
 #include "CZombieActor.h"
 #include "CSmartPart.h"

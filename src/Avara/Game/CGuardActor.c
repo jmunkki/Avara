@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CGuardActor.c
     Created: Saturday, December 17, 1994, 2:51
     Modified: Monday, August 26, 1996, 3:06
-/*/
+*/
 
 #include "CGuardActor.h"
 #include "CSmartPart.h"

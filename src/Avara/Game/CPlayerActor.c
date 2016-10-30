@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CPlayerActor.c
     Created: Tuesday, November 22, 1994, 5:50
     Modified: Tuesday, December 5, 1995, 6:07
-/*/
+*/
 
 #include "CPlayerActor.h"
 #include "CSmartPart.h"

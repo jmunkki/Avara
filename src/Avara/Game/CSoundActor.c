@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CSoundActor.c
     Created: Thursday, November 30, 1995, 23:29
     Modified: Sunday, September 1, 1996, 18:56
-/*/
+*/
 
 #include "CSoundActor.h"
 #include "CRateSound.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CWalkerActor.c
     Created: Monday, February 6, 1995, 11:59
     Modified: Monday, September 16, 1996, 19:28
-/*/
+*/
 
 #include "CWalkerActor.h"
 #include "CSmartPart.h"

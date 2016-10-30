@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CSwitchActor.h
     Created: Tuesday, January 16, 1996, 0:03
     Modified: Friday, April 12, 1996, 16:42
-/*/
+*/
 
 #pragma once
 #include "CGlowActors.h"

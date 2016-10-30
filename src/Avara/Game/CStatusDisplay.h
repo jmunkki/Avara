@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: CStatusDisplay.h
     Created: Monday, March 6, 1995, 4:07
     Modified: Tuesday, November 7, 1995, 19:12
-/*/
+*/
 
 #pragma once
 

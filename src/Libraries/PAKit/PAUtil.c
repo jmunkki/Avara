@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1992, Juri Munkki
     All rights reserved.
 
     File: PAUtil.c
     Created: Sunday, December 6, 1992, 14:14
     Modified: Sunday, December 6, 1992, 15:37
-/*/
+*/
 
 #include "PAKit.h"
 

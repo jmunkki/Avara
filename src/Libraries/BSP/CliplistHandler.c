@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: CliplistHandler.c
     Created: Monday, May 8, 1995, 11:01
     Modified: Monday, May 8, 1995, 11:01
-/*/
+*/
 
 #include "CBSPPart.h"
 

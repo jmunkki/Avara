@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: CAbstractCommServer.c
     Created: Monday, October 30, 1995, 18:50
     Modified: Friday, November 10, 1995, 18:37
-/*/
+*/
 
 #include "CAbstractCommServer.h"
 #include "GestaltEqu.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: AvaraTCP.h
     Created: Sunday, January 28, 1996, 17:22
     Modified: Friday, April 19, 1996, 19:59
-/*/
+*/
 
 #pragma once
 #include <MacTCPLib.h>

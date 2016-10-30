@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CSmart.h
     Created: Wednesday, February 14, 1996, 1:39
     Modified: Monday, September 16, 1996, 16:31
-/*/
+*/
 
 #pragma once
 

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CLogicCounter.c
     Created: Tuesday, November 21, 1995, 20:09
     Modified: Saturday, January 27, 1996, 12:01
-/*/
+*/
 
 #include "CLogicCounter.h"
 

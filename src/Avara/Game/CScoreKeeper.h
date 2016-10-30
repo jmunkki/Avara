@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CScoreKeeper.h
     Created: Sunday, May 5, 1996, 13:08
     Modified: Friday, July 26, 1996, 5:20
-/*/
+*/
 
 #pragma once
 #include "CDirectObject.h"

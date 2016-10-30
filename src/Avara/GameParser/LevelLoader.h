@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: LevelLoader.h
     Created: Sunday, November 20, 1994, 19:48
     Modified: Friday, September 8, 1995, 9:24
-/*/
+*/
 
 #pragma once
 

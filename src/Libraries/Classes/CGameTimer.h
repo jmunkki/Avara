@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CGameTimer.h
     Created: Sunday, November 20, 1994, 0:21
     Modified: Tuesday, June 18, 1996, 21:40
-/*/
+*/
 
 #pragma once
 #include "CDirectObject.h"

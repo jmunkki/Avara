@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CAsyncBeeper.h
     Created: Tuesday, July 23, 1996, 2:28
     Modified: Tuesday, July 23, 1996, 2:56
-/*/
+*/
 
 #pragma once
 #include "CDirectObject.h"

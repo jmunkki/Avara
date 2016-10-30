@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CAbstractPlayer.h
     Created: Friday, March 10, 1995, 4:11
     Modified: Saturday, September 7, 1996, 18:04
-/*/
+*/
 
 #pragma once
 #include "CRealMovers.h"

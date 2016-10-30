@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CTracker.c
     Created: Friday, April 19, 1996, 18:52
     Modified: Sunday, September 1, 1996, 11:26
-/*/
+*/
 
 #include "CTracker.h"
 #include "CTagBase.h"

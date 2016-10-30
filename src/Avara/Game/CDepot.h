@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CDepot.h
     Created: Wednesday, March 8, 1995, 6:00
     Modified: Wednesday, August 14, 1996, 16:23
-/*/
+*/
 
 #pragma once
 #include "CDirectObject.h"

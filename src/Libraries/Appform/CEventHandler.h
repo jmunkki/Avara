@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CEventHandler.h
     Created: Sunday, November 13, 1994, 21:59
     Modified: Monday, June 24, 1996, 3:00
-/*/
+*/
 
 #pragma once
 #include "CCommander.h"

@@ -1,7 +1,7 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
-/*/
+*/
 
 #include "CTabCards.h"
 #include "JAMUtil.h"

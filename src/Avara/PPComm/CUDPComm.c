@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CUDPComm.c
     Created: Monday, January 29, 1996, 13:45
     Modified: Sunday, September 1, 1996, 10:54
-/*/
+*/
 
 #include "CUDPComm.h"
 #include "CUDPConnection.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CTCPComm.c
     Created: Sunday, January 28, 1996, 8:51
     Modified: Sunday, January 28, 1996, 19:39
-/*/
+*/
 
 #include "CTCPComm.h"
 #include "CTCPConnection.h"

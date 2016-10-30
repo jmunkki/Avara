@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CTextActor.c
     Created: Saturday, January 20, 1996, 3:34
     Modified: Sunday, September 8, 1996, 22:57
-/*/
+*/
 
 #include "CTextActor.h"
 #include "CSmartPart.h"

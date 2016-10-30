@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1993-1996, Juri Munkki
     All rights reserved.
 
     File: CTagBase.c
     Created: Sunday, July 25, 1993, 7:48
     Modified: Sunday, January 28, 1996, 10:47
-/*/
+*/
 
 #include "CTagBase.h"
 #include <RAMFiles.h>

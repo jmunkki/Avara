@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: AvaraDefines.h
     Created: Monday, March 6, 1995, 3:30
     Modified: Thursday, August 22, 1996, 3:18
-/*/
+*/
 
 #pragma once
 

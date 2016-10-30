@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CPlayerMissile.c
     Created: Saturday, November 26, 1994, 11:18
     Modified: Monday, January 29, 1996, 14:43
-/*/
+*/
 
 #include "CPlayerMissile.h"
 

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: AvaraTypes.h
     Created: Saturday, June 24, 1995, 23:33
     Modified: Sunday, August 25, 1996, 8:52
-/*/
+*/
 
 #pragma once
 

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CBall.c
     Created: Monday, February 26, 1996, 15:41
     Modified: Saturday, September 7, 1996, 17:46
-/*/
+*/
 
 #include "CBall.h"
 #include "CSmartPart.h"

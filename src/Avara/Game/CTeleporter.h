@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CTeleporter.h
     Created: Monday, July 3, 1995, 1:17
     Modified: Tuesday, August 27, 1996, 0:57
-/*/
+*/
 
 #pragma once
 #include "CPlacedActors.h"

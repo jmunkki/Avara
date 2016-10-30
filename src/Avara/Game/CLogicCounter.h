@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: CLogicCounter.h
     Created: Tuesday, November 21, 1995, 20:07
     Modified: Tuesday, November 21, 1995, 20:13
-/*/
+*/
 
 #pragma once
 #include "CLogic.h"

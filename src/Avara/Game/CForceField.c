@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CForceField.c
     Created: Saturday, January 20, 1996, 4:36
     Modified: Sunday, August 25, 1996, 8:54
-/*/
+*/
 
 #include "CForceField.h"
 #include "CWallActor.h"

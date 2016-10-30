@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: JAMUtil.h
     Created: Wednesday, April 24, 1996, 1:43
     Modified: Thursday, July 25, 1996, 2:59
-/*/
+*/
 
 typedef struct
 {

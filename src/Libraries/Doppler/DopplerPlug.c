@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: DopplerPlug.c
     Created: Friday, May 5, 1995, 16:21
     Modified: Saturday, May 20, 1995, 14:00
-/*/
+*/
 
 #define DOPPLERPLUG
 

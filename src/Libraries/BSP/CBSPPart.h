@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CBSPPart.h
     Created: Thursday, June 30, 1994, 10:24
     Modified: Tuesday, May 14, 1996, 18:30
-/*/
+*/
 
 #pragma once
 #include "CDirectObject.h"

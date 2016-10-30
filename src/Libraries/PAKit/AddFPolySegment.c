@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: AddFPolySegment.c
     Created: Friday, July 1, 1994, 7:15
     Modified: Wednesday, February 7, 1996, 22:15
-/*/
+*/
 
 #include "PAKit.h"
 

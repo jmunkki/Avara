@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CTextActor.h
     Created: Saturday, January 20, 1996, 3:33
     Modified: Thursday, February 22, 1996, 8:07
-/*/
+*/
 
 #pragma once
 #include "CAbstractActor.h"

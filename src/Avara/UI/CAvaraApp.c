@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CAvaraApp.c
     Created: Wednesday, November 16, 1994, 1:26
     Modified: Monday, August 21, 1995, 4:26
-/*/
+*/
 
 #define	MAINAVARAAPP
 #include "CAvaraApp.h"

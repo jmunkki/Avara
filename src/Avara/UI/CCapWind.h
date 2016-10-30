@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CCapWind.h
     Created: Wednesday, November 16, 1994, 2:20
     Modified: Monday, June 12, 1995, 6:39
-/*/
+*/
 
 #include "CWindowCommander.h"
 

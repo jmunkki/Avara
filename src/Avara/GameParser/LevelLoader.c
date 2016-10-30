@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1992-1995, Juri Munkki
     All rights reserved.
 
     File: LevelLoader.c
     Created: Saturday, December 5, 1992, 13:29
     Modified: Wednesday, June 28, 1995, 2:17
-/*/
+*/
 
 #include "CWallActor.h"
 #include "CAvaraGame.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994, Juri Munkki
     All rights reserved.
 
     File: BSPResStructures.h
     Created: Wednesday, June 29, 1994, 23:31
     Modified: Sunday, December 11, 1994, 1:44
-/*/
+*/
 
 #pragma once
 

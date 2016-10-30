@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: PlayerConfig.h
     Created: Monday, January 8, 1996, 16:06
     Modified: Saturday, September 7, 1996, 19:42
-/*/
+*/
 
 #pragma once
 typedef struct

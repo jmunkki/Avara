@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CSphereActor.h
     Created: Wednesday, November 23, 1994, 8:48
     Modified: Friday, September 8, 1995, 8:27
-/*/
+*/
 
 #pragma once
 #include "CGlowActors.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CFreeSolid.h
     Created: Friday, August 9, 1996, 16:51
     Modified: Saturday, August 10, 1996, 18:55
-/*/
+*/
 
 #pragma once
 #include "CRealMovers.h"

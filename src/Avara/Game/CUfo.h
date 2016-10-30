@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CUfo.h
     Created: Monday, December 4, 1995, 3:02
     Modified: Saturday, August 10, 1996, 21:02
-/*/
+*/
 
 #pragma once
 #include "CRealShooters.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CHuffmanHandler.c
     Created: Thursday, December 22, 1994, 3:54
     Modified: Thursday, August 31, 1995, 20:29
-/*/
+*/
 
 #include "CHuffmanHandler.h"
 

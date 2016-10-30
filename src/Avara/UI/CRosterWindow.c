@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: CRosterWindow.c
     Created: Thursday, May 25, 1995, 22:58
     Modified: Monday, June 12, 1995, 6:46
-/*/
+*/
 
 #include "CRosterWindow.h"
 #include "CTabCards.h"

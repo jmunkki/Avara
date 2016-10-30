@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CSmart.c
     Created: Wednesday, February 14, 1996, 1:39
     Modified: Tuesday, September 17, 1996, 7:36
-/*/
+*/
 
 #include "CSmart.h"
 #include "CDepot.h"

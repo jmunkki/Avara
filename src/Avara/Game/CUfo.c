@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CUfo.c
     Created: Monday, December 4, 1995, 3:09
     Modified: Thursday, September 12, 1996, 0:23
-/*/
+*/
 
 #include "CUfo.h"
 #include "CSmartPart.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1992-1995, Juri Munkki
     All rights reserved.
 
     File: PolyColorManager.c
     Created: Sunday, December 6, 1992, 6:44
     Modified: Tuesday, May 23, 1995, 18:03
-/*/
+*/
 
 #include "PolyColor.h"
 #include "RamFiles.h"

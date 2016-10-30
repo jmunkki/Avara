@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CRealMovers.h
     Created: Friday, March 1, 1996, 17:18
     Modified: Friday, August 9, 1996, 21:07
-/*/
+*/
 
 #pragma once
 #include "CGlowActors.h"

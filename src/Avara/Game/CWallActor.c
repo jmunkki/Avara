@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CWallActor.c
     Created: Sunday, November 20, 1994, 19:43
     Modified: Sunday, September 1, 1996, 20:36
-/*/
+*/
 
 #include "CWallActor.h"
 #include "CSmartBox.h"

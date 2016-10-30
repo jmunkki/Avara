@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CSmartBox.c
     Created: Thursday, November 9, 1995, 12:20
     Modified: Wednesday, January 24, 1996, 5:22
-/*/
+*/
 
 #include "CSmartBox.h"
 

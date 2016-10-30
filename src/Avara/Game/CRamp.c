@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CRamp.c
     Created: Wednesday, January 24, 1996, 5:34
     Modified: Tuesday, September 10, 1996, 17:58
-/*/
+*/
 
 #include "CRamp.h"
 #include "CSmartBox.h"

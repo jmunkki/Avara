@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CAbstractPipe.c
     Created: Tuesday, September 20, 1994, 17:38
     Modified: Thursday, June 1, 1995, 1:31
-/*/
+*/
 
 #include "CAbstractPipe.h"
 

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CLogic.c
     Created: Tuesday, November 21, 1995, 19:51
     Modified: Wednesday, April 10, 1996, 14:12
-/*/
+*/
 
 #include "CLogic.h"
 

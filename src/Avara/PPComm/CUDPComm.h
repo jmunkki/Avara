@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CUDPComm.h
     Created: Monday, January 29, 1996, 13:32
     Modified: Saturday, August 31, 1996, 21:34
-/*/
+*/
 
 #pragma once
 #include "CCommManager.h"

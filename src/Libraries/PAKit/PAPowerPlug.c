@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: PAPowerPlug.c
     Created: Monday, May 1, 1995, 8:10
     Modified: Saturday, February 10, 1996, 18:52
-/*/
+*/
 
 #include "PAKit.h"
 

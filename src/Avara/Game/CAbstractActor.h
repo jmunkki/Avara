@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CAbstractActor.h
     Created: Sunday, November 20, 1994, 19:15
     Modified: Monday, September 16, 1996, 18:49
-/*/
+*/
 
 #pragma once
 #include "CDirectObject.h"

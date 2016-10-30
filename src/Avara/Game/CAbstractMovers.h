@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CAbstractMovers.h
     Created: Tuesday, December 5, 1995, 6:02
     Modified: Friday, January 19, 1996, 3:08
-/*/
+*/
 
 #pragma once
 #include "CGlowActors.h"

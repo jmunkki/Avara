@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CUDPConnection.h
     Created: Monday, January 29, 1996, 13:35
     Modified: Saturday, August 3, 1996, 6:48
-/*/
+*/
 
 #pragma once
 #include "CDirectObject.h"

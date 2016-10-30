@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1993-1995, Juri Munkki
     All rights reserved.
 
     File: Parser.c
     Created: Wednesday, February 10, 1993, 19:18
     Modified: Wednesday, June 28, 1995, 0:51
-/*/
+*/
 
 #include <math.h>
 #include "Numbers.h"

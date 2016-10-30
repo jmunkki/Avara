@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: CZombieActor.h
     Created: Tuesday, October 31, 1995, 14:56
     Modified: Saturday, December 2, 1995, 5:21
-/*/
+*/
 
 #pragma once
 #include "CGlowActors.h"

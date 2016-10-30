@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1992-1996, Juri Munkki
     All rights reserved.
 
     File: PAKit.h
     Created: Sunday, November 22, 1992, 21:12
     Modified: Tuesday, January 2, 1996, 3:51
-/*/
+*/
 
 #pragma once
 #include "PolyColor.h"

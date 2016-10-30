@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CWorldShader.c
     Created: Saturday, December 30, 1995, 8:15
     Modified: Thursday, September 5, 1996, 0:33
-/*/
+*/
 
 #include "CWorldShader.h"
 #include "CAvaraGame.h"

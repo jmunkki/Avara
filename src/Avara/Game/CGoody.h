@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CGoody.h
     Created: Friday, February 23, 1996, 13:53
     Modified: Tuesday, August 27, 1996, 4:15
-/*/
+*/
 
 #pragma once
 #include "CPlacedActors.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CDoorActor.c
     Created: Sunday, December 4, 1994, 10:01
     Modified: Saturday, September 14, 1996, 0:21
-/*/
+*/
 
 #include "CDoorActor.h"
 #include "CSmartPart.h"

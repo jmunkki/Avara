@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CCapWind.c
     Created: Wednesday, November 16, 1994, 2:23
     Modified: Monday, June 12, 1995, 6:44
-/*/
+*/
 
 #include "CCapWind.h"
 #include "CCapMaster.h"

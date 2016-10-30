@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CCapMaster.h
     Created: Friday, November 11, 1994, 21:01
     Modified: Tuesday, December 19, 1995, 19:22
-/*/
+*/
 
 #pragma once			
 

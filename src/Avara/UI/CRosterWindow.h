@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: CRosterWindow.h
     Created: Thursday, May 25, 1995, 22:53
     Modified: Friday, June 9, 1995, 8:00
-/*/
+*/
 
 #pragma once
 #include "CWindowCommander.h"

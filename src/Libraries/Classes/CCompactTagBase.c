@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: CCompactTagBase.c
     Created: Thursday, June 1, 1995, 1:28
     Modified: Tuesday, November 7, 1995, 18:12
-/*/
+*/
 
 #include "CCompactTagBase.h"
 #include "CHuffmanHandler.h"

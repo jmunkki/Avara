@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CWeapon.h
     Created: Saturday, December 16, 1995, 21:13
     Modified: Monday, September 16, 1996, 16:27
-/*/
+*/
 
 #pragma once
 

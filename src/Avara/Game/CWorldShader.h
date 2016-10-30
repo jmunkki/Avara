@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: CWorldShader.h
     Created: Saturday, December 30, 1995, 8:12
     Modified: Saturday, December 30, 1995, 8:38
-/*/
+*/
 
 #pragma once
 #include "CDirectObject.h"

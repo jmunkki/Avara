@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CYonBox.c
     Created: Thursday, August 22, 1996, 3:11
     Modified: Sunday, September 1, 1996, 20:35
-/*/
+*/
 
 #include "CYonBox.h"
 

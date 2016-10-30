@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: Avara.c
     Created: Sunday, November 13, 1994, 21:18
     Modified: Tuesday, May 30, 1995, 3:29
-/*/
+*/
 
 #include "CAvaraApp.h"
 

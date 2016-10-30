@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1992-1994, Juri Munkki
     All rights reserved.
 
     File: PAMain.c
     Created: Sunday, November 22, 1992, 20:25
     Modified: Wednesday, November 9, 1994, 20:30
-/*/
+*/
 
 #include "PAKit.h"
 

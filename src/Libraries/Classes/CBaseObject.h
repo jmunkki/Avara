@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1992-1994, Juri Munkki
     All rights reserved.
 
     File: CBaseObject.h
     Created: Friday, October 23, 1992, 16:22
     Modified: Tuesday, October 18, 1994, 15:49
-/*/
+*/
 
 #pragma once
 

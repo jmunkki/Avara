@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CTCPConnection.h
     Created: Sunday, January 28, 1996, 11:39
     Modified: Sunday, January 28, 1996, 21:55
-/*/
+*/
 
 #pragma once
 #include "CCommManager.h"

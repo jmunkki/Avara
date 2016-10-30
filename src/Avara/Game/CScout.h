@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CScout.h
     Created: Wednesday, March 15, 1995, 7:14
     Modified: Friday, March 1, 1996, 17:27
-/*/
+*/
 
 #pragma once
 #include "CRealMovers.h"

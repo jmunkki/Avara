@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1992-1995, Juri Munkki
     All rights reserved.
 
     File: PAKit_gamma.c
     Created: Thursday, November 26, 1992, 13:52
     Modified: Tuesday, November 7, 1995, 22:50
-/*/
+*/
 
 #define PAKITMAIN
 

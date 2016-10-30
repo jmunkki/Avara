@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CAvaraApp.h
     Created: Wednesday, November 16, 1994, 1:25
     Modified: Monday, June 12, 1995, 6:35
-/*/
+*/
 
 #pragma once
 #include "CEventHandler.h"

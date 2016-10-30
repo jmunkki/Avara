@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CNetManager.h
     Created: Monday, May 15, 1995, 22:14
     Modified: Sunday, September 1, 1996, 19:31
-/*/
+*/
 
 #pragma once
 #include "CDirectObject.h"

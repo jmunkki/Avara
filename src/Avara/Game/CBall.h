@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CBall.h
     Created: Monday, February 26, 1996, 15:36
     Modified: Tuesday, September 3, 1996, 22:04
-/*/
+*/
 
 #pragma once
 #include "CRealShooters.h"

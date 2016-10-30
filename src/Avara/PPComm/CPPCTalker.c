@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CPPCTalker.c
     Created: Monday, December 19, 1994, 0:22
     Modified: Monday, April 3, 1995, 23:12
-/*/
+*/
 
 #include "CPPCTalker.h"
 #include "GestaltEqu.h"

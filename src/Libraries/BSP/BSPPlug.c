@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: BSPPlug.c
     Created: Thursday, May 4, 1995, 13:08
     Modified: Thursday, November 23, 1995, 15:09
-/*/
+*/
 
 #ifdef powerc
 #define	POWERPLUG_CLASS

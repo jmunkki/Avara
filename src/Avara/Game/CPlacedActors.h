@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CPlacedActors.h
     Created: Tuesday, November 22, 1994, 5:45
     Modified: Thursday, December 7, 1995, 10:32
-/*/
+*/
 
 #pragma once
 #include "CAbstractActor.h"

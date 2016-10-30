@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CPPCConnection.h
     Created: Tuesday, February 21, 1995, 21:12
     Modified: Thursday, January 25, 1996, 7:37
-/*/
+*/
 
 #pragma once
 #include "CCommChannel.h"

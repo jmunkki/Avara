@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CSmartPart.c
     Created: Wednesday, November 23, 1994, 0:43
     Modified: Sunday, December 10, 1995, 12:57
-/*/
+*/
 
 #include "CSmartPart.h"
 #include "FastMat.h"

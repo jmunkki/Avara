@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CProtoControl.c
     Created: Thursday, March 2, 1995, 22:37
     Modified: Sunday, September 1, 1996, 10:05
-/*/
+*/
 
 #include "CProtoControl.h"
 #include "CAvaraGame.h"

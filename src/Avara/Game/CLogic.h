@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CLogic.h
     Created: Tuesday, November 21, 1995, 19:49
     Modified: Sunday, January 21, 1996, 5:07
-/*/
+*/
 
 #pragma once
 #include "CAbstractActor.h"

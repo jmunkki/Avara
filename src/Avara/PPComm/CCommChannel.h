@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CCommChannel.h
     Created: Monday, February 27, 1995, 23:14
     Modified: Thursday, January 25, 1996, 7:37
-/*/
+*/
 
 #pragma once
 #include "CAbstractCommClient.h"

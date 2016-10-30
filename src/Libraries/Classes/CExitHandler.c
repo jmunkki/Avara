@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CExitHandler.c
     Created: Sunday, November 20, 1994, 0:42
     Modified: Sunday, April 28, 1996, 2:20
-/*/
+*/
 
 #define MAINEXITHANDLER
 #include "CExitHandler.h"

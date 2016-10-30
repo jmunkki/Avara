@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CWindowCommander.h
     Created: Wednesday, November 16, 1994, 1:12
     Modified: Wednesday, April 24, 1996, 1:06
-/*/
+*/
 
 #pragma once
 #include "CCommander.h"

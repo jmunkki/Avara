@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CSkyColorAdjuster.c
     Created: Tuesday, November 29, 1994, 8:24
     Modified: Friday, June 21, 1996, 18:08
-/*/
+*/
 
 #include "CSkyColorAdjuster.h"
 #include "CWorldShader.h"

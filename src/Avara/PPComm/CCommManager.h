@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CCommManager.h
     Created: Monday, February 20, 1995, 23:57
     Modified: Wednesday, August 14, 1996, 19:03
-/*/
+*/
 
 #pragma once
 #include "CDirectObject.h"

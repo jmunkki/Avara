@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1992-1995, Juri Munkki
     All rights reserved.
 
     File: PolyColor.h
     Created: Sunday, December 6, 1992, 6:26
     Modified: Tuesday, May 23, 1995, 18:00
-/*/
+*/
 
 #pragma once
 

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: AvaraScoreInterface.h
     Created: Sunday, May 5, 1996, 12:28
     Modified: Monday, August 26, 1996, 10:03
-/*/
+*/
 
 #pragma once
 

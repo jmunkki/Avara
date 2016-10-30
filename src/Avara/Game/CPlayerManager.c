@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CPlayerManager.c
     Created: Saturday, March 11, 1995, 5:50
     Modified: Sunday, September 15, 1996, 20:51
-/*/
+*/
 
 #include "CPlayerManager.h"
 #include "CNetManager.h"

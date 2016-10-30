@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CTriPyramidActor.c
     Created: Saturday, December 3, 1994, 14:46
     Modified: Monday, February 26, 1996, 16:00
-/*/
+*/
 
 #include "CTriPyramidActor.h"
 #include "CSmartPart.h"

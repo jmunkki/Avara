@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CommandList.h
     Created: Saturday, November 19, 1994, 23:49
     Modified: Wednesday, June 14, 1995, 11:13
-/*/
+*/
 
 #pragma once
 

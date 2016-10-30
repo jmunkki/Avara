@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: CStatusDisplay.c
     Created: Monday, March 6, 1995, 4:11
     Modified: Tuesday, November 7, 1995, 19:25
-/*/
+*/
 
 #include "CStatusDisplay.h"
 #include "AvaraDefines.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1993-1995, Juri Munkki
     All rights reserved.
 
     File: Parser.h
     Created: Saturday, February 13, 1993, 13:20
     Modified: Wednesday, June 28, 1995, 0:51
-/*/
+*/
 
 #pragma once
 

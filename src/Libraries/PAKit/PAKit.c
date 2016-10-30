@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1992-1996, Juri Munkki
     All rights reserved.
 
     File: PAKit.c
     Created: Thursday, November 26, 1992, 13:52
     Modified: Saturday, February 10, 1996, 18:36
-/*/
+*/
 
 #define PAKITMAIN
 

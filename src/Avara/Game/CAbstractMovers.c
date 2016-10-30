@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CAbstractMovers.c
     Created: Tuesday, December 5, 1995, 6:03
     Modified: Tuesday, February 20, 1996, 10:37
-/*/
+*/
 
 #include "CAbstractMovers.h"
 

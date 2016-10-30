@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CAbstractMissile.h
     Created: Wednesday, March 8, 1995, 6:13
     Modified: Sunday, February 4, 1996, 12:31
-/*/
+*/
 
 #pragma once
 #include "CAbstractActor.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CBSPWorld.c
     Created: Saturday, July 16, 1994, 23:14
     Modified: Tuesday, February 20, 1996, 7:39
-/*/
+*/
 
 #include "CBSPWorld.h"
 #include "CBSPPart.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CAvaraGame.h
     Created: Sunday, November 20, 1994, 19:01
     Modified: Sunday, September 15, 1996, 21:09
-/*/
+*/
 
 #pragma once
 #include "CGameTimer.h"

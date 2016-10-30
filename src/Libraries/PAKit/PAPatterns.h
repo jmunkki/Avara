@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1992, Juri Munkki
     All rights reserved.
 
     File: PAPatterns.h
     Created: Friday, November 27, 1992, 0:59
     Modified: Friday, November 27, 1992, 7:02
-/*/
+*/
 long	bitmapPats[] =
 	{	0,0,0,0,
 		0,0,0,0,

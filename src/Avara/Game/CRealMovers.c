@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CRealMovers.c
     Created: Friday, March 1, 1996, 17:20
     Modified: Sunday, August 25, 1996, 8:54
-/*/
+*/
 
 #include "CRealMovers.h"
 #include "CSmartPart.h"

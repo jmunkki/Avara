@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CHologramActor.c
     Created: Tuesday, November 29, 1994, 4:47
     Modified: Friday, March 29, 1996, 10:44
-/*/
+*/
 
 #include "CHologramActor.h"
 #include "CBSPPart.h"

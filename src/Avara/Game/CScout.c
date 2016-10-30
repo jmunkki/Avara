@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CScout.c
     Created: Wednesday, March 15, 1995, 7:48
     Modified: Monday, September 16, 1996, 19:31
-/*/
+*/
 
 #include "CScout.h"
 #include "CAbstractPlayer.h"

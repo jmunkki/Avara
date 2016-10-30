@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CAsyncBeeper.c
     Created: Tuesday, July 23, 1996, 2:30
     Modified: Tuesday, July 23, 1996, 2:55
-/*/
+*/
 
 #define	MAIN_ASYNCBEEPER
 #include "CAsyncBeeper.h"

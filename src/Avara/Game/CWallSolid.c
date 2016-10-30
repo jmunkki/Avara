@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CWallSolid.c
     Created: Friday, December 8, 1995, 4:29
     Modified: Saturday, August 10, 1996, 18:30
-/*/
+*/
 
 #include "CWallSolid.h"
 #include "CWallActor.h"

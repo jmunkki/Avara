@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CGameWind.c
     Created: Wednesday, November 16, 1994, 2:05
     Modified: Monday, June 12, 1995, 6:46
-/*/
+*/
 
 #include "CGameWind.h"
 #include "Palettes.h"

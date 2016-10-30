@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: TrackerTags.h
     Created: Friday, August 30, 1996, 14:09
     Modified: Saturday, August 31, 1996, 19:05
-/*/
+*/
 
 #pragma once
 

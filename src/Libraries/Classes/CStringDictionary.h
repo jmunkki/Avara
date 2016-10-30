@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1993-1995, Juri Munkki
     All rights reserved.
 
     File: CStringDictionary.h
     Created: Sunday, July 25, 1993, 18:48
     Modified: Thursday, June 1, 1995, 1:23
-/*/
+*/
 
 /*
 **	This class maintains a sort of dictionary of words. The idea

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CIncarnator.h
     Created: Tuesday, May 23, 1995, 17:39
     Modified: Saturday, February 17, 1996, 4:18
-/*/
+*/
 
 #pragma once
 #include "CPlacedActors.h"

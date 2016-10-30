@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CWalkerActor.h
     Created: Monday, February 6, 1995, 11:59
     Modified: Saturday, September 7, 1996, 19:40
-/*/
+*/
 
 #pragma once
 #include "CAbstractPlayer.h"

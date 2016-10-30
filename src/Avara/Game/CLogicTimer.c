@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CLogicTimer.c
     Created: Wednesday, November 22, 1995, 8:13
     Modified: Saturday, January 27, 1996, 12:04
-/*/
+*/
 
 #include "CLogicTimer.h"
 

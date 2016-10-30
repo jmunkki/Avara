@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CGlowActors.c
     Created: Wednesday, March 15, 1995, 7:06
     Modified: Tuesday, July 30, 1996, 8:40
-/*/
+*/
 
 #include "CGlowActors.h"
 #include "CSmartPart.h"

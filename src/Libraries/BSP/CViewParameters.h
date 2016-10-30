@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CViewParameters.h
     Created: Thursday, June 30, 1994, 10:45
     Modified: Tuesday, February 20, 1996, 7:19
-/*/
+*/
 
 #pragma once
 

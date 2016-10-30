@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CViewParameters.c
     Created: Sunday, July 10, 1994, 21:24
     Modified: Tuesday, February 20, 1996, 7:39
-/*/
+*/
 
 #include "CViewParameters.h"
 #include "FastMat.h"

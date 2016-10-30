@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CForceField.h
     Created: Saturday, January 20, 1996, 4:35
     Modified: Tuesday, June 11, 1996, 14:08
-/*/
+*/
 
 #pragma once
 #include "CPlacedActors.h"

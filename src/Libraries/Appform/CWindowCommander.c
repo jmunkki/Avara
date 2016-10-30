@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CWindowCommander.c
     Created: Wednesday, November 16, 1994, 1:17
     Modified: Wednesday, April 24, 1996, 1:05
-/*/
+*/
 
 #include "CWindowCommander.h"
 #include "CEventHandler.h"

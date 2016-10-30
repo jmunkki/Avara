@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: DopplerPlug.h
     Created: Friday, May 5, 1995, 16:21
     Modified: Friday, May 5, 1995, 18:34
-/*/
+*/
 
 #pragma once
 #include "SoundSystemDefines.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CCommChannel.c
     Created: Monday, February 27, 1995, 23:17
     Modified: Thursday, February 22, 1996, 9:10
-/*/
+*/
 
 #include "CCommChannel.h"
 #include "CommDefs.h"

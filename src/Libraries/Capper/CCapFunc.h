@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CCapFunc.h
     Created: Friday, November 11, 1994, 21:24
     Modified: Friday, December 1, 1995, 22:20
-/*/
+*/
 
 #pragma once
 

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CSolidActor.c
     Created: Saturday, December 3, 1994, 11:50
     Modified: Monday, February 26, 1996, 16:00
-/*/
+*/
 
 #include "CSolidActor.h"
 #include "CSmartPart.h"

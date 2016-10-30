@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1992-1996, Juri Munkki
     All rights reserved.
 
     File: PAScanConversion.c
     Created: Monday, November 23, 1992, 16:43
     Modified: Thursday, February 22, 1996, 5:35
-/*/
+*/
 
 #include "PAKit.h"
 

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1992-1996, Juri Munkki
     All rights reserved.
 
     File: PADiff.c
     Created: Monday, November 23, 1992, 16:44
     Modified: Tuesday, January 2, 1996, 9:42
-/*/
+*/
 
 #include "PAKit.h"
 

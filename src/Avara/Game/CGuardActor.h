@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CGuardActor.h
     Created: Saturday, December 17, 1994, 2:51
     Modified: Thursday, May 30, 1996, 14:25
-/*/
+*/
 
 #pragma once
 #include "CGlowActors.h"

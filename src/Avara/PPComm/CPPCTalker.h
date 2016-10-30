@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CPPCTalker.h
     Created: Monday, December 19, 1994, 0:19
     Modified: Tuesday, February 21, 1995, 21:10
-/*/
+*/
 
 #pragma once
 #include "CDirectObject.h"

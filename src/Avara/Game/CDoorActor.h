@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CDoorActor.h
     Created: Sunday, December 4, 1994, 9:59
     Modified: Saturday, February 17, 1996, 2:47
-/*/
+*/
 
 #pragma once
 #include "CGlowActors.h"

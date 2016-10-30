@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: KeyFuncs.h
     Created: Tuesday, November 22, 1994, 5:14
     Modified: Friday, February 2, 1996, 10:41
-/*/
+*/
 
 #pragma once
 

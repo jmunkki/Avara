@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CMarkerActor.h
     Created: Tuesday, November 22, 1994, 2:14
     Modified: Wednesday, March 15, 1995, 7:13
-/*/
+*/
 
 #pragma once
 #include "CGlowActors.h"

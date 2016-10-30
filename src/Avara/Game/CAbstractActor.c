@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CAbstractActor.c
     Created: Sunday, November 20, 1994, 19:17
     Modified: Monday, September 16, 1996, 18:50
-/*/
+*/
 
 #include "CAbstractActor.h"
 #include "CScaledBSP.h"

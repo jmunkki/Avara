@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CGrenade.c
     Created: Tuesday, February 13, 1996, 0:14
     Modified: Monday, August 26, 1996, 3:07
-/*/
+*/
 
 #include "CGrenade.h"
 #include "CDepot.h"

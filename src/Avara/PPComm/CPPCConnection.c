@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CPPCConnection.c
     Created: Tuesday, February 21, 1995, 21:13
     Modified: Tuesday, February 20, 1996, 9:15
-/*/
+*/
 
 #include "CPPCConnection.h"
 #include "CCommServer.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CCapKey.c
     Created: Friday, November 11, 1994, 21:17
     Modified: Tuesday, December 19, 1995, 12:18
-/*/
+*/
 
 #include "CCapKey.h"
 #include "CCapMaster.h"

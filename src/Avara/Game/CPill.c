@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CPill.c
     Created: Tuesday, August 27, 1996, 4:34
     Modified: Wednesday, September 4, 1996, 0:12
-/*/
+*/
 
 #include "CPill.h"
 

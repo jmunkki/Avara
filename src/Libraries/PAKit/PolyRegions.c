@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1993-1996, Juri Munkki
     All rights reserved.
 
     File: PolyRegions.c
     Created: Sunday, September 12, 1993, 21:55
     Modified: Wednesday, February 7, 1996, 19:15
-/*/
+*/
 
 #pragma options(!profile)
 

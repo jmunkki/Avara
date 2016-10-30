@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CAbstractPlayer.c
     Created: Friday, March 10, 1995, 4:14
     Modified: Thursday, September 26, 1996, 0:06
-/*/
+*/
 
 #include "CAbstractPlayer.h"
 #include "CPlayerMissile.h"

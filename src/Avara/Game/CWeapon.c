@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CWeapon.c
     Created: Tuesday, February 13, 1996, 0:02
     Modified: Tuesday, September 17, 1996, 2:18
-/*/
+*/
 
 #include "CWeapon.h"
 #include "CDepot.h"

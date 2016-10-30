@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CFreeSolid.c
     Created: Friday, August 9, 1996, 17:02
     Modified: Sunday, August 18, 1996, 3:48
-/*/
+*/
 
 #include "CFreeSolid.h"
 #include "CSmartPart.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: UDPTags.h
     Created: Tuesday, April 9, 1996, 22:00
     Modified: Wednesday, July 31, 1996, 14:00
-/*/
+*/
 
 #define	kUDPCommPrefsTag		'UDPT'
 #define	kUDPResendPrefTag		'UDPR'

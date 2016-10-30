@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: CLevelListWind.c
     Created: Wednesday, November 30, 1994, 8:54
     Modified: Monday, August 21, 1995, 4:26
-/*/
+*/
 
 #include "CLevelListWind.h"
 #include "CCompactTagBase.h"

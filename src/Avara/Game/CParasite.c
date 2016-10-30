@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CParasite.c
     Created: Monday, November 20, 1995, 14:40
     Modified: Monday, August 26, 1996, 3:04
-/*/
+*/
 
 #include "CParasite.h"
 #include "CAbstractPlayer.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CDirectObject.c
     Created: Friday, March 11, 1994, 17:15
     Modified: Thursday, April 11, 1996, 22:30
-/*/
+*/
 
 #include "CDirectObject.h"
 

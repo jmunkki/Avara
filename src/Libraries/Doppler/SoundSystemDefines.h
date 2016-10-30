@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: SoundSystemDefines.h
     Created: Friday, December 23, 1994, 10:58
     Modified: Saturday, December 2, 1995, 1:37
-/*/
+*/
 
 #pragma once
 #define	HSOUNDRESTYPE		'HSND'

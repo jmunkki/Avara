@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CScoreKeeper.c
     Created: Sunday, May 5, 1996, 13:11
     Modified: Saturday, August 17, 1996, 0:08
-/*/
+*/
 
 #include "CScoreKeeper.h"
 #include "CAvaraGame.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1995, Juri Munkki
     All rights reserved.
 
     File: LevelScoreRecord.h
     Created: Wednesday, November 30, 1994, 10:48
     Modified: Thursday, June 1, 1995, 2:14
-/*/
+*/
 
 #pragma once
 

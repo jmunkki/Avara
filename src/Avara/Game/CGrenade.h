@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CGrenade.h
     Created: Tuesday, February 13, 1996, 0:03
     Modified: Monday, June 3, 1996, 21:44
-/*/
+*/
 
 #pragma once
 

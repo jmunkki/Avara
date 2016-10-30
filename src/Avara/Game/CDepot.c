@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CDepot.c
     Created: Wednesday, March 8, 1995, 6:01
     Modified: Wednesday, August 14, 1996, 16:34
-/*/
+*/
 
 #include "CDepot.h"
 #include "CAvaraGame.h"

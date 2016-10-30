@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995, Juri Munkki
     All rights reserved.
 
     File: CAbstractCommClient.h
     Created: Monday, October 30, 1995, 18:52
     Modified: Monday, October 30, 1995, 18:56
-/*/
+*/
 
 #pragma once
 #include "CCommManager.h"

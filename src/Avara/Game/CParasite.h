@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CParasite.h
     Created: Monday, November 20, 1995, 14:37
     Modified: Friday, March 1, 1996, 17:24
-/*/
+*/
 
 #pragma once
 #include "CRealMovers.h"

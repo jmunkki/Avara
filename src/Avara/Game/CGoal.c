@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CGoal.c
     Created: Sunday, August 25, 1996, 8:20
     Modified: Wednesday, September 4, 1996, 0:06
-/*/
+*/
 
 #include "CGoal.h"
 #include "CSmartPart.h"

@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994, Juri Munkki
     All rights reserved.
 
     File: CHuffDecode.c
     Created: Tuesday, September 27, 1994, 23:07
     Modified: Monday, October 3, 1994, 23:18
-/*/
+*/
 
 #include "CHuffDecode.h"
 

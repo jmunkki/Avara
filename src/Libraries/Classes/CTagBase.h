@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1993-1995, Juri Munkki
     All rights reserved.
 
     File: CTagBase.h
     Created: Sunday, July 25, 1993, 7:48
     Modified: Wednesday, June 7, 1995, 8:23
-/*/
+*/
 
 #pragma once
 #include <CBaseObject.h>

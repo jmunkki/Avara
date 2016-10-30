@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CGameTimer.c
     Created: Sunday, November 20, 1994, 0:21
     Modified: Tuesday, June 18, 1996, 22:15
-/*/
+*/
 
 #include "CGameTimer.h"
 

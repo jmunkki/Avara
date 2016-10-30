@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CGoal.h
     Created: Sunday, August 25, 1996, 8:20
     Modified: Tuesday, September 3, 1996, 21:44
-/*/
+*/
 
 #pragma once
 #include "CGlowActors.h"

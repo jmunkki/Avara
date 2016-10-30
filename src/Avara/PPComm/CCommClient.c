@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CCommClient.c
     Created: Thursday, February 23, 1995, 20:23
     Modified: Wednesday, August 14, 1996, 19:02
-/*/
+*/
 
 #include "CCommClient.h"
 #include "CPPCConnection.h"

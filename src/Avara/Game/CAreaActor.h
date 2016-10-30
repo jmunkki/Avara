@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1994-1996, Juri Munkki
     All rights reserved.
 
     File: CAreaActor.h
     Created: Sunday, December 4, 1994, 12:53
     Modified: Saturday, January 20, 1996, 4:24
-/*/
+*/
 
 #pragma once
 #include "CAbstractActor.h"

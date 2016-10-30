@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1995-1996, Juri Munkki
     All rights reserved.
 
     File: CommDefs.h
     Created: Thursday, March 2, 1995, 22:27
     Modified: Sunday, September 1, 1996, 10:03
-/*/
+*/
 
 #pragma once
 

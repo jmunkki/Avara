@@ -1,11 +1,11 @@
-/*/
+/*
     Copyright ©1996, Juri Munkki
     All rights reserved.
 
     File: CRealShooters.c
     Created: Saturday, August 10, 1996, 20:57
     Modified: Tuesday, August 27, 1996, 5:18
-/*/
+*/
 
 #include "CRealShooters.h"
 #include "CSmartPart.h"
