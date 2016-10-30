@@ -1,0 +1,1 @@
+R	Received packet (whatever)S	Send out packet.Q	queue out of order packetD	Discard packet (already in incoming out of order queue)V	validated (acked from other end) up to.%	good packet received+	good packet from out of order queue removed-	bad packet from out of order queue removedA	Send ack for serial.#	Decided to drop packet here...
