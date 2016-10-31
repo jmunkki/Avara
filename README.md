@@ -29,9 +29,9 @@ The source code files use MacOS Roman encoding and carriage return line endings.
 
 Afterword
 
-Avara was meant to be just a guick LAN-based tank shooter game and I wanted to then move on to some more interesting games. I had a whole bunch of ideas and even some code for a game or two, but other than some university-related projects, I haven't worked in the games industry since this. Game design and programming have always been my calling. I was very slow to graduate and in 2010, I finally got my M.Sc. degree in computer science with a major in interactive digital media and a minor in game design. Somehow though, I have never really connected with the Finnish games industry, so I have worked on "more mundane" projects.
+Avara was meant to be just a quick LAN-based tank shooter game and I wanted to then move on to some more interesting games. I had a whole bunch of ideas and even some code for a game or two, but other than some university-related projects, I haven't worked in the games industry since this. Game design and programming have always been my calling. I was very slow to graduate and in 2010, I finally got my M.Sc. degree in computer science with a major in interactive digital media and a minor in game design. Somehow though, I have never really connected with the Finnish games industry, so I have worked on "more mundane" projects.
 
-I started playing World of Warcraft in 2006 and I think studying their design and understanding theorycrafting kept the game designer in my entertained for years.
+I started playing World of Warcraft in 2006 and I think studying their design and understanding theorycrafting kept the game designer in me entertained for years.
 
 Comments and questions are welcome, but I can not promise to answer every question. I will do my best to help with potentially missing files or other gaps in this repository.
 
