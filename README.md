@@ -24,7 +24,7 @@ I think especially the core game code is rather cleanly written on top of relati
 
 One big decision you have to make is to either stick to fixed point math and provide your own libraries for that or to conver to floating point. If you do the latter, it is very important for the floating point math results to match exactly (to the last bit) on every client running the game. This is due to the way the serverless networking system works in Avara.
 
-The source code files use MacOS Roman encoding and carriage return line endings. My apologies for that. If it's a problem, I can convert them to UTF-8 and linefeed line endings.
+The source code files use MacOS Roman encoding, but aside from the copyright symbol, pretty much everything could be considered 7 bit ASCII. Line endings were recently changed to linefeed from the original Mac carriage returns.
 
 
 Afterword
