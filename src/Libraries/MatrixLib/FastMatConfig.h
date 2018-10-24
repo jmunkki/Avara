@@ -1,0 +1,6 @@
+
+#ifndef __FASTMATCONFIG
+#define FASTMATCONFIG
+#define FASTMAT020
+#define FASTMATINLINE
+#endif
