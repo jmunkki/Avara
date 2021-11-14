@@ -1,6 +1,11 @@
 # Avara
 
 ## Avara Game Source Code
+
+### Note
+
+This repository is not in active development. However, I'm really pleased that the code has been successfully ported to run on modern platforms, so Avara lives on! The repository for the modern port is here: https://github.com/avaraline/Avara
+
 ### Originally published in 1996 for MacOS.
 
 With permission from Andrew Welch at Ambrosia Software, the Avara source code is now available under the MIT license. The idea of releasing Avara as open source has existed for a very long time, but the trigger to actually get it done was the 20th anniversary and the events around that. There's an excellent twitch.tv stream recording showing what the game looks like and there's an interesting podcast on Avara that was done shortly after the stream:
